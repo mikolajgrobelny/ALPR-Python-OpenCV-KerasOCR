@@ -1,0 +1,20 @@
+<?xml version="1.0" ?><lista>
+<plate number="sg8574x">
+   <imie>jan</imie>
+   <nazwisko>nowak</nazwisko>
+   <marka>fiat</marka>
+   <model>uno</model>
+</plate>
+<plate number="zst66ve">
+   <imie>janusz</imie>
+   <nazwisko>nosacz</nazwisko>
+   <marka>auto</marka>
+   <model>test</model>
+</plate>
+<plate number="sk840ay">
+   <imie>stfefania</imie>
+   <nazwisko>kowlski</nazwisko>
+   <marka>mercedes</marka>
+   <model>a</model>
+</plate>
+<plate numer="sk9999"><imie>anna</imie><nazwisko>jezorak</nazwisko><marka>skoda</marka><model>fabia</model></plate></lista>
